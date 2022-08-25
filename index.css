@@ -8,6 +8,7 @@ body{
 }
 
 .container{
+    margin-top: 40px;
     background: rgba(245, 245, 245, 0.79);
     max-width: 80%;
     margin:auto;
